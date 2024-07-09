@@ -1,0 +1,48 @@
+{
+    "zapatillas": [
+        {
+            "id": 1,
+            "marca": "Nike",
+            "estilo": "Deportivo",
+            "precio": 120,
+            "descripcion": "Zapatillas Nike Air Max con amortiguación avanzada y diseño moderno."
+        },
+        {
+            "id": 2,
+            "marca": "Adidas",
+            "estilo": "Casual",
+            "precio": 100,
+            "descripcion": "Zapatillas Adidas Ultraboost con tecnología de retorno de energía."
+        },
+        {
+            "id": 3,
+            "marca": "Puma",
+            "estilo": "Deportivo",
+            "precio": 110,
+            "descripcion": "Zapatillas Puma con diseño ligero y transpirable, perfectas para correr."
+        }
+    ],
+    "zapatos": [
+        {
+            "id": 1,
+            "marca": "Clarks",
+            "estilo": "Formal",
+            "precio": 150,
+            "descripcion": "Zapatos formales Clarks de cuero genuino, ideales para ocasiones formales."
+        },
+        {
+            "id": 2,
+            "marca": "Timberland",
+            "estilo": "Casual",
+            "precio": 130,
+            "descripcion": "Zapatos Timberland de estilo casual, resistentes al agua y cómodos."
+        },
+        {
+            "id": 3,
+            "marca": "Dr. Martens",
+            "estilo": "Casual",
+            "precio": 140,
+            "descripcion": "Zapatos Dr. Martens de estilo casual con suela resistente y diseño duradero."
+        }
+    ]
+}
